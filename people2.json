@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Land-Cruiser-rsz1.jpg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Land-Cruiser-rsz1.jpg",
             "name": "Tiger Nixon",
             "position": "System Architect",
             "salary": "$320,800",
@@ -10,7 +10,7 @@
             "extn": "5421"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x5-rsz1.jpeg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x5-rsz1.jpeg",
             "name": "Garrett Winters",
             "position": "Accountant",
             "salary": "$170,750",
@@ -19,7 +19,7 @@
             "extn": "8422"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Forester-rsz1.jpg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Forester-rsz1.jpg",
             "name": "Ashton Cox",
             "position": "Junior Technical Author",
             "salary": "$86,000",
@@ -28,7 +28,7 @@
             "extn": "1562"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Celica-rsz1.jpg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/Celica-rsz1.jpg",
             "name": "Cedric Kelly",
             "position": "Senior Javascript Developer",
             "salary": "$433,060",
@@ -37,7 +37,7 @@
             "extn": "6224"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x7-rsz1.jpg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/BMW-x7-rsz1.jpg",
             "name": "Airi Satou",
             "position": "Accountant",
             "salary": "$162,700",
@@ -46,7 +46,7 @@
             "extn": "5407"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/maxresdefault.jpg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/maxresdefault.jpg",
             "name": "Brielle Williamson",
             "position": "Integration Specialist",
             "salary": "$372,000",
@@ -55,7 +55,7 @@
             "extn": "4804"
         },
         {
-            "image": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/5b749de9dcee3029008b5476.jpeg",
+            "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/07/5b749de9dcee3029008b5476.jpeg",
             "name": "Herrod Chandler",
             "position": "Sales Assistant",
             "salary": "$137,500",
