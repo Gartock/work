@@ -3,7 +3,7 @@
         {
             "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/08/E-r6-open.png",
             "name": "Tiger Nixon",
-            "position": "System Architect",
+            "position": "Architect",
             "salary": "$320,800",
             "start_date": "2011/04/25",
             "office": "Edinburgh",
@@ -21,7 +21,7 @@
         {
             "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/08/Gm-r5.png",
             "name": "Ashton Cox",
-            "position": "Junior Technical Author",
+            "position": "Author",
             "salary": "$86,000",
             "start_date": "2009/01/12",
             "office": "San Francisco",
@@ -30,7 +30,7 @@
         {
             "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/08/E-r5.png",
             "name": "Cedric Kelly",
-            "position": "Senior Javascript Developer",
+            "position": "JS Developer",
             "salary": "$433,060",
             "start_date": "2012/03/29",
             "office": "Edinburgh",
@@ -48,7 +48,7 @@
         {
             "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/08/B-r6.png",
             "name": "Brielle Williamson",
-            "position": "Integration Specialist",
+            "position": "Specialist",
             "salary": "$372,000",
             "start_date": "2012/12/02",
             "office": "New York",
@@ -57,7 +57,7 @@
         {
             "image-url": "http://cars3.nwhomedesign.com/wp-content/uploads/2023/08/A-r6.png",
             "name": "Herrod Chandler",
-            "position": "Sales Assistant",
+            "position": "Assistant",
             "salary": "$137,500",
             "start_date": "2012/08/06",
             "office": "San Francisco",
