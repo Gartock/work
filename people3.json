@@ -4,7 +4,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Tiger Nixon",
             "position": "Architect",
-            "salary": "$320,800",
+            "salary": "320,800",
             "start_date": "2011/04/25",
             "office": "Edinburgh",
             "extn": "5421"
@@ -13,7 +13,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Garrett Winters",
             "position": "Accountant",
-            "salary": "$170,750",
+            "salary": "170,750",
             "start_date": "2011/07/25",
             "office": "Tokyo",
             "extn": "8422"
@@ -22,7 +22,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Ashton Cox",
             "position": "Author",
-            "salary": "$86,000",
+            "salary": "86,000",
             "start_date": "2009/01/12",
             "office": "San Francisco",
             "extn": "1562"
@@ -31,7 +31,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Cedric Kelly",
             "position": "JS Developer",
-            "salary": "$433,060",
+            "salary": "433,060",
             "start_date": "2012/03/29",
             "office": "Edinburgh",
             "extn": "6224"
@@ -39,7 +39,7 @@
         {
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "position": "Accountant",
-            "salary": "$162,700",
+            "salary": "162,700",
             "start_date": "2008/11/28",
             "office": "Tokyo",
             "extn": "5407"
@@ -48,7 +48,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Brielle Williamson",
             "position": "Specialist",
-            "salary": "$372,000",
+            "salary": "372,000",
             "start_date": "2012/12/02",
             "office": "New York",
             "extn": "4804"
@@ -57,7 +57,7 @@
             "image_url": "https://richterguitar.com/wp-content/uploads/2024/03/E-Major.png",
             "name": "Herrod Chandler",
             "position": "Assistant",
-            "salary": "$137,500",
+            "salary": "137,500",
             "start_date": "2012/08/06",
             "office": "San Francisco",
             "extn": "9608"
